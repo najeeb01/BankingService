@@ -1,2 +1,2 @@
-# UserManagement
-restful service to GET list
+# Intro2Java
+Let's get some java code!
